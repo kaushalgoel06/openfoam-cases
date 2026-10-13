@@ -1,0 +1,9 @@
+# time directories (keep 0 and 0.orig)
+[1-9]*/
+processor*/
+postProcessing/
+log.*
+*.foam
+*.OpenFOAM
+*:Zone.Identifier
+tutorials/
